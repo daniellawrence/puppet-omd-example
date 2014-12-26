@@ -1,3 +1,6 @@
 [submodule "docker-cp"]
 	path = docker-cp
 	url = https://github.com/daniellawrence/docker-cp
+[submodule "puppet-code/modules/omd"]
+	path = puppet-code/modules/omd
+	url = https://github.com/fnerdwq/puppet-omd
