@@ -1,0 +1,3 @@
+[submodule "docker-cp"]
+	path = docker-cp
+	url = https://github.com/daniellawrence/docker-cp
